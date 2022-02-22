@@ -1,5 +1,5 @@
-### ٱلسَّلَامُ عَلَيْكُمْ
-
+<h2 align = "center"> ٱلسَّلَامُ عَلَيْكُمْ
+</>
 <!--
 **ashikurrahmanbhuiyan/ashikurrahmanbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
