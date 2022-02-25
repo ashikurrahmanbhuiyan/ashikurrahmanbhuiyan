@@ -1,7 +1,9 @@
-<h2 align = "center"> ٱلسَّلَامُ عَلَيْكُمْ
-</>
-  ### My Github Stats
+<h2 align = "center"> ٱلسَّلَامُ عَلَيْكُمْ</h2>
+
+### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashikurrahmanbhuiyan&show_icons=true&count_private=true&theme=dark" alt="ashikurrahmanbhuiyan" />
+  
+ ![Profile views](https://gpvc.arturio.dev/ashikurrahmanbhuiyan)
 <!--
 **ashikurrahmanbhuiyan/ashikurrahmanbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
