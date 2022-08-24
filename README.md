@@ -5,6 +5,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=00F77AFF&vCenter=true&width=600&height=70&lines=I+AM+ASHIKUR+RAHMAN;A+COMPETATIVE+PROGRAMMER;AND+A+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,react,ts,androidstudio,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,django,mysql,mongodb,java,wordpress,docker" />
+  </a>
+</p>
+
+<br>
+<br>
+
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
@@ -22,8 +41,7 @@
 [3]: https://www.instagram.com/ashikurrahmanbhuiyan/
 [4]: https://t.me/ashikurrahman7
 
-<br>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
   
   
   
@@ -31,9 +49,13 @@
   
   
   
-  ### My Github Stats
-  
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=ashikurrahmanbhuiyan&show_icons=true&count_private=true&theme=dark"      alt="ashikurrahmanbhuiyan" />
+  ### Github Stats
+
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ashikurrahmanbhuiyan&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurrahmanbhuiyan&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
 
 
  ![Profile views](https://gpvc.arturio.dev/ashikurrahmanbhuiyan)
